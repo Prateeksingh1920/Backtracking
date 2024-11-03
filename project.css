@@ -1,0 +1,142 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#a{
+    font-weight: bolder;
+    font-size: x-large;
+}
+.b{
+    color: grey;
+    font-size: small;
+}
+.ab{
+    width: 1000pxpx;
+    height: 40px;
+    border: solid;
+    border-width: 1px;
+    background-color: rgb(238, 235, 235);
+    color: grey;
+    padding: 30px 30px 30px 30px;
+    font-size: small;
+    
+}
+.alog{
+    border: solid;
+    border-width: 1px;
+    padding-left: 70px;
+    font-size: small;
+}
+.ax{
+   width: 1000pxpx;
+   height: 70px;
+   border: solid;
+   border-width: 1px;
+   padding: 20px 10px 20px 10px;
+   color: blue;
+   border-color: grey;
+   font-size: small;
+}
+.axe{
+    width: 1000pxpx;
+   height: 250px;
+   border: solid;
+   border-width: 1px;
+   padding: 20px 10px 20px 10px;
+   color: blue;
+   border-color: grey;
+   font-size: small;
+}
+.zx{
+    width: 1000pxpx;
+    height: 290px;
+    border: solid;
+    border-width: 1px;
+    padding: 20px 10px 20px 10px;
+    color: blue;
+    border-color: grey;
+    font-size: small;
+}
+.zxe{
+    width: 1000pxpx;
+    height: 260px;
+    border: solid;
+    border-width: 1px;
+    padding: 20px 10px 20px 10px;
+    color: blue;
+    border-color: grey;
+    font-size: small;
+}
+.asd{
+    width: 1000pxpx;
+    height: 210px;
+    border: solid;
+    border-width: 1px;
+    padding: 20px 10px 20px 10px;
+    color: blue;
+    border-color: grey;
+    font-size: small;
+}
+.lkj{
+    width: 1000pxpx;
+    height: 180px;
+    border: solid;
+    border-width: 1px;
+    padding: 20px 10px 20px 10px;
+    color: blue;
+    border-color: grey;
+    font-size: small;
+}
+.mnb{
+    width: 1000pxpx;
+    height: 380px;
+    border: solid;
+    border-width: 1px;
+    padding: 20px 10px 20px 10px;
+    color: blue;
+    border-color: grey;
+    font-size: small;
+}
+.qaz{
+    width: 1000pxpx;
+    height: 140px;
+    border: solid;
+    border-width: 1px;
+    padding: 20px 10px 20px 10px;
+    color: blue;
+    border-color: grey;
+    font-size: small;
+}
+.wsx{
+    width: 1000pxpx;
+    height: 450px;
+    border: solid;
+    border-width: 1px;
+    padding: 20px 10px 20px 10px;
+    color: blue;
+    border-color: grey;
+    font-size: small;
+}
+.a{
+    width: 1000pxpx;
+   height: 20px;
+   border: solid;
+   border-width: 1px;
+   padding: 20px 10px 20px 10px;
+   color: blue;
+   border-color: grey;
+   font-size: small;
+}
+.z{
+    width: 1000pxpx;
+   height: 110px;
+   border: solid;
+   border-width: 1px;
+   padding: 20px 10px 20px 10px;
+   color: blue;
+   border-color: grey;
+   font-size: small;
+}
+ol,li{
+    font-size: small;
+    font-weight: 700;
+}
